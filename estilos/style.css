@@ -7,7 +7,7 @@
 html, body {
     width: 100vw;
     height: 100vh;
-    background-color: black;
+    background-color: white;
 }
 body {
     background: url('../imagens/fundo-madeira.jpg') no-repeat top center/cover fixed;
@@ -29,8 +29,8 @@ main {
     position: relative;
     top: 80px;
     left: 22px;
-    height: 471px;
-    width: 269px;
+    height: 473px;
+    width: 268px;
 }
 #redes-sociais {
     text-align: right;
